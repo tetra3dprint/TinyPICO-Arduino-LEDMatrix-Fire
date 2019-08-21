@@ -9,7 +9,7 @@ This is focused on performance of drawing pixels to the screen. If your using pe
 
 
 
-video: https://www.youtube.com/embed/Vy6Xjx7Kiyc
+video: https://www.youtube.com/watch?v=fC80I8o_hKU
 
 Required hardware/software: -
 

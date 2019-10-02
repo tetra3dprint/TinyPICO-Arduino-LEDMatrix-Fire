@@ -3,6 +3,7 @@
 
     Written by @tetra3dprint
     Twiter: https://twitter.com/tetra3dprint
+    Github: https://github.com/tetra3dprint
 
     TinyPICO https://www.crowdsupply.com/unexpected-maker/tinypico
     by Seon
